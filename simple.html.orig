@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+ADD Copuright By Manash in Master (Actually)
+=======
+ADD Copuright By Manash in Master
+>>>>>>> realwork
+<!DOCTYPE html>
+<head>
+	<title></title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+	<style>
+		body {
+			padding-top: 50px;
+			padding-bottom: 20px;
+		}
+	</style>
+	<link rel="stylesheet" href="css/bootstrap-theme.min.css">
+</head>
+Hello Manash
+<body>
+	<main class="container">
+	<!-- Content Goes Here -->
+		<p>
+			Just some content FROM MANASH FOR PRACTICE
+		</p>
+	</main>
+	<footer class="container">
+		<p>&copy; Company 2014</p>
+	</footer>
+</body>
+</html>
